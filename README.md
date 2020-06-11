@@ -1,4 +1,4 @@
-# HATSim
+# Hazard-Targeted Time-Series Simulator (HATSim)
 
 
 Note:
