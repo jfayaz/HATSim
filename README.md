@@ -29,13 +29,12 @@ Jawad Fayaz (UC-Irvine), Sarah Azar (AUB-Beirut), Yara Daoud (AUB-Beirut), Mayss
 
 
     Primary citation for this tool :    
-    Fayaz J., Azar S., Dabaghi M., and Zareian F. (2020). An Efficient Algorithm to Simulate Hazard-Targeted Site-Based Synthetic Ground Motions, Earthquake Spectra
-
+    Fayaz J., Azar S., Dabaghi M., and Zareian F. (2020). An Efficient Algorithm to Simulate Hazard-Targeted Site-Based Synthetic Ground Motions. Earthquake Spectra, Vol. 37, Issue 2, Pages 876-902
 
 
 References:
 
-1) Fayaz J., Azar S., Dabaghi M., and Zareian F. (2020). An Efficient Algorithm to Simulate Hazard-Targeted Site-Based Synthetic Ground Motions, Earthquake Spectra
+1) Fayaz J., Azar S., Dabaghi M., and Zareian F. (2020). An Efficient Algorithm to Simulate Hazard-Targeted Site-Based Synthetic Ground Motions. Earthquake Spectra, Vol. 37, Issue 2, Pages 876-902
 
 2) Dabaghi, M., Daoud, Y., and Der Kiureghian, A. (2018a). Simulation of near fault ground motions for randomized hypocenter and site locations, Proceedings of the 11th US National Conference on Earthquake Engineering, Los Angeles, CA.
 
